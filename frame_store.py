@@ -1,4 +1,4 @@
-#we added a function to store frame of detected image
+#we added a function to store frame of detected image.
 from ultralytics import YOLO
 from ultralytics.solutions import object_counter
 import cv2
